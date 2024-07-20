@@ -23,11 +23,11 @@ Ao decifrar o arquivo sera gerado o arquivo 'nome_arquivo_decripto.txt' que ter�
 ## Exemplo de utilização
 
 ### Exemplo Cifrar
-`C:\Users\Wolff\Desktop\Pasta\Cifra>python cifra.py nome_arquivo.txt cafe cifrar`
+`C:\Users\Wolff\Desktop\Pasta\Cifra>python cifra_transposicao.py nome_arquivo.txt cafe cifrar`
 
 Perceba que **C:\Users\Wolff\Desktop\Pasta\Cifra** é o caminho onde o programa de cifragem/decifragem e o arquivo a ser cifrado estavam no meu computador.
 
 ### Exemplo Decifrar
-`C:\Users\Wolff\Desktop\Pasta\Cifra>python cifra.py nome_arquivo_cripto.txt cafe decifrar`
+`C:\Users\Wolff\Desktop\Pasta\Cifra>python cifra_transposicao.py nome_arquivo_cripto.txt cafe decifrar`
 
 Perceba que **C:\Users\Wolff\Desktop\Pasta\Cifra** é o caminho onde o programa de cifragem/decifragem e o arquivo a ser decifrado estavam no meu computador.
