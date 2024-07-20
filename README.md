@@ -14,7 +14,7 @@ Ao final da cifragem sera gerado o arquivo 'nome_arquivo_cripto.txt'.
 ## Decifrar
 
 ### Entradas
-- Arquivo: Arquivo 'nome_arquivo_cripto.txt' que foi gerado ao finalizar a cifragem do arquivo original;
+- Arquivo: Arquivo .txt com o nome 'nome_arquivo_cripto' que foi gerado ao finalizar a cifragem do arquivo original;
 - Chave: Deve ser utilizada a mesma chave que foi utilizado para cifrar o arquivo original;
 - Modo: Para cifrar escolha o modo 'decifrar'.
 
